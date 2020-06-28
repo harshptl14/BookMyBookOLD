@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104210350998",
+    "firebase_url": "https://bookmybook-de128.firebaseio.com",
+    "project_id": "bookmybook-de128",
+    "storage_bucket": "bookmybook-de128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104210350998:android:f889d8a61ec47b2d7fd3b7",
+        "android_client_info": {
+          "package_name": "com.harsh.bookmybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104210350998-frv212csu5i3ucfke7fqmjciuqj1ctet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SJemmW1zFU8XFpM61IqZxdZPoLbhLbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104210350998-frv212csu5i3ucfke7fqmjciuqj1ctet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
